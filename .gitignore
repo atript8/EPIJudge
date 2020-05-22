@@ -22,8 +22,11 @@ __pycache__/
 cpp_build
 build
 
-epi_judge_java/java_build/
+epi_judge_java/out/
+epi_judge_java/.iml
 *.class
 
 # OS X specific files
 .DS_Store
+epi_judge_java/.project
+epi_judge_java/.classpath

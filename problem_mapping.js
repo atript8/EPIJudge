@@ -65,7 +65,7 @@ problem_mapping = {
                 "passed": 0,
                 "total": 10000
             },
-            "Python: closest_int_same_weight.py": { 
+            "Python: closest_int_same_weight.py": {
                 "passed": 0,
                 "total": 10000
             }
@@ -190,7 +190,7 @@ problem_mapping = {
                 "total": 204
             },
             "Java: DutchNationalFlag.java": {
-                "passed": 0,
+                "passed": 204,
                 "total": 204
             },
             "Python: dutch_national_flag.py": {
@@ -218,7 +218,7 @@ problem_mapping = {
                 "total": 1000
             },
             "Java: IntAsArrayMultiply.java": {
-                "passed": 0,
+                "passed": 1000,
                 "total": 1000
             },
             "Python: int_as_array_multiply.py": {
@@ -232,7 +232,7 @@ problem_mapping = {
                 "total": 2004
             },
             "Java: AdvanceByOffsets.java": {
-                "passed": 0,
+                "passed": 2004,
                 "total": 2004
             },
             "Python: advance_by_offsets.py": {
@@ -246,7 +246,7 @@ problem_mapping = {
                 "total": 2003
             },
             "Java: SortedArrayRemoveDups.java": {
-                "passed": 0,
+                "passed": 2003,
                 "total": 2003
             },
             "Python: sorted_array_remove_dups.py": {
@@ -260,7 +260,7 @@ problem_mapping = {
                 "total": 402
             },
             "Java: BuyAndSellStock.java": {
-                "passed": 0,
+                "passed": 402,
                 "total": 402
             },
             "Python: buy_and_sell_stock.py": {
@@ -274,7 +274,7 @@ problem_mapping = {
                 "total": 402
             },
             "Java: BuyAndSellStockTwice.java": {
-                "passed": 0,
+                "passed": 77,
                 "total": 402
             },
             "Python: buy_and_sell_stock_twice.py": {
@@ -694,7 +694,7 @@ problem_mapping = {
                 "total": 501
             },
             "Java: SortedListsMerge.java": {
-                "passed": 0,
+                "passed": 501,
                 "total": 501
             },
             "Python: sorted_lists_merge.py": {
